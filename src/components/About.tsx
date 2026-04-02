@@ -36,8 +36,7 @@ const About = () => {
               <p>
                 My technical foundation began at{" "}
                 <span className="text-foreground font-semibold">Virginia Tech</span> with a Bachelor's in Materials Science & Engineering, and I'm currently pursuing my Master's in Data Analytics at{" "}
-                <span className="text-foreground font-semibold">Georgia Institute of Technology</span> (expected May 2026). I hold a{" "}
-                <span className="text-foreground font-semibold">Top Secret/SCI Clearance</span>.
+                <span className="text-foreground font-semibold">Georgia Institute of Technology</span> (expected May 2026). 
               </p>
               
               <p>
